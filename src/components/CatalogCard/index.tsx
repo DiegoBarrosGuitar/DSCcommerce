@@ -1,5 +1,6 @@
-import "./styles.css";
-import computerImg from "../../assets/computer.png";
+import React from 'react';
+import computerImg from '../../assets/computer.png';
+import './styles.css';
 
 export default function CatalogCard() {
   return (

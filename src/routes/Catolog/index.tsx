@@ -1,3 +1,4 @@
+import React, { JSX } from 'react';
 import "./styles.css";
 import HeaderClient from "../../components/HeaderClient";
 import SearchBar from "../../components/SearchBar";

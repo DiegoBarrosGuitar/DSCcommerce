@@ -1,3 +1,4 @@
+import React, { JSX } from 'react';
 import computerImg from "../../assets/computer.png";
 import ProductCategory from "../ProductCategory";
 import "./styles.css";
@@ -23,7 +24,6 @@ export default function ProductDetailsCart() {
         <div className="dsc-category-container">
          <ProductCategory/>
          <ProductCategory/>
-  
         </div>
       </div>
     </div>

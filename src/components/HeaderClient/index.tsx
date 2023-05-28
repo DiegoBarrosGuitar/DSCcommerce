@@ -1,3 +1,4 @@
+import React, { JSX } from 'react';
 import './styles.css';
 import cartIcon from '../../assets/cart.svg';
 

@@ -1,3 +1,4 @@
+import React, { JSX } from 'react';
 import "./styles.css"
 import ButtonInverse from "../../components/ButtonInverse";
 import ButtonPrimary from "../../components/ButtonPrimary";
