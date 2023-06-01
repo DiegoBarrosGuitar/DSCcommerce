@@ -25,7 +25,6 @@ export default function ProductDetailsCard({ product }: Props) {
                 <ProductCategory key={item.id} name={item.name} />
               ))
             }
-
         </div>
       </div>
     </div>
